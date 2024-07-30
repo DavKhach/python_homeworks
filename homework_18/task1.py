@@ -1,4 +1,4 @@
-def my_map(func: 'function', iterable: 'list')-> 'list':
+def my_map(func: callable, iterable: list)-> list:
     """ 
     We have two arguments in my_map function:
     - func: A function that takes one argument and returns a result

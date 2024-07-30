@@ -1,4 +1,4 @@
-def my_zip(*iterables: 'list') -> 'list':
+def my_zip(*iterables: list) -> list:
     """
     The function has *iterables as his argument which means that
     my_zip accepts arbitrary number of positional arguments

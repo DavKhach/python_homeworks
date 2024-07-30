@@ -1,4 +1,4 @@
-def my_filter(func: 'function', iterable: 'list')-> 'list':
+def my_filter(func: callable, iterable: list) -> list:
     """
     We have two arguments in my_filter function:
     - func: A function that takes one argument and returns a boolen
@@ -13,7 +13,7 @@ def my_filter(func: 'function', iterable: 'list')-> 'list':
             result.append(item)
     return result
 
-def is_even(x: 'int') -> 'bool':
+def is_even(x: int) -> bool:
     return x % 2 == 0
 
 nums = [1, 2, 3, 4, 5]
