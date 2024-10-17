@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fc5c237-a9e4-4965-8a39-5cdce84d9ce7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../homework_10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_13/peterrabbit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_13/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_13/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_13/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_13/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_14/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_14/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_14/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_14/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_14/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_14/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_15/task9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_16/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_16/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_16/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_16/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_16/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_16/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_16/task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_17/task8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_18/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_18/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_18/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_18/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_18/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_18/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_19/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_19/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_20/task9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_21/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_21/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_21/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_21/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_22/task9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_23/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_23/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_23/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_23/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_24/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_24/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_24/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_24/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_24/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_25/Dynamic_array/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_25/Dynamic_array/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_25/Fraction/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_25/Fraction/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_26/task8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/.idea/homework_27.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_27/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/.idea/homework_28.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_28/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/.idea/homework_29.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/I.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/L.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/O.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_29/S.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nYuJosd9ZXaaDc8911AYVWtjLx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.task2.executor": "Run",
+    "Python.task3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/code/homework_30"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="homework_30" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc5c237-a9e4-4965-8a39-5cdce84d9ce7" name="Changes" comment="" />
+      <created>1729162262251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729162262251</updated>
+    </task>
+    <servers />
+  </component>
+</project>
