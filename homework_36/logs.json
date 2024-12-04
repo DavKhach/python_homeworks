@@ -1,0 +1,29 @@
+[
+  {
+    "event": "login",
+    "username": "Admin",
+    "timestamp": "2024-12-04T18:15:38.023642",
+    "status": "success"
+  },
+  {
+    "event": "secure_page_access",
+    "username": "Admin",
+    "timestamp": "2024-12-04T18:15:38.047265"
+  },
+  {
+    "event": "login",
+    "username": "Admin",
+    "timestamp": "2024-12-04T18:25:06.622792",
+    "status": "success"
+  },
+  {
+    "event": "secure_page_access",
+    "username": "Admin",
+    "timestamp": "2024-12-04T18:25:06.650982"
+  },
+  {
+    "event": "secure_page_access",
+    "username": "Admin",
+    "timestamp": "2024-12-04T18:25:08.007693"
+  }
+]
