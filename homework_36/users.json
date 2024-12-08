@@ -1,10 +1,6 @@
 {
-  "Joe": {
-    "username": "Joe",
-    "password": "$5$rounds=535000$u81rLdRSYapJbGC8$6qZWZ1oGZZCJWdO7HMTd5IdshE3Prx6WK.8AxPdCWa8"
-  },
   "Admin": {
     "username": "Admin",
-    "password": "$5$rounds=535000$vsQxehl8uqmGpOP7$40NbmZaFWpSBV/EQbLUZY4fuvjKWowQ0eHTKesmzHeD"
+    "password": "$5$rounds=535000$iyRZf0mqeRCrkRu3$jtF83psckc/7W0h637SWH4tKzHfZRsNOhSfECMBn439"
   }
 }
